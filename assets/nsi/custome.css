@@ -1,0 +1,8 @@
+.navbar-nav > .user-nsi .user-image {
+    border-radius: 50%;
+    float: left;
+    height: 25px;
+    margin-right: 10px;
+    margin-top: -2px;
+    width: 25px;
+}

@@ -1,0 +1,11 @@
+	$(".dtpicker").datetimepicker({
+		language:  'id',
+		weekStart: 1,
+		autoclose: true,
+		todayBtn: true,
+		todayHighlight: true,
+		pickerPosition: 'bottom-right',
+		format: "dd MM yyyy - hh:ii",
+		linkField: "tgl_transaksi",
+		linkFormat: "yyyy-mm-dd hh:ii"
+	});
